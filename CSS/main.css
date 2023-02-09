@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: #E0CFC1 ;
+    font-family: 'Trebuchet MS', 'Helvetica', sans-serif;
+   }
+
+.imagem{
+    padding-top:610px ;
+    background-image: url(../IMG/imagenSite02.png);
+    background-size:500px 630px;
+    background-repeat: no-repeat;
+    background-position: right;
+    float: right;
+}
+
+.texto{
+background-position: left;
+text-align: left;
+color:rgb(245, 238, 238);
+float: left;
+}
